@@ -9,15 +9,6 @@ Both forms follow basic web design principles for accessibility, readability, an
 
 ---
 
-## 🌐 Live Demo
-
-You can open the files directly in your browser:
-
-- [Login Form](login.html)
-- [Registration Form](register.html)
-
----
-
 ## 🛠 Features
 
 - Responsive design using relative units like `rem`, `%`, and `vh/vw`
