@@ -18,5 +18,3 @@ Both forms follow basic web design principles for accessibility, readability, an
 - Works well on mobile, tablet, and desktop screens
 
 ---
-
-## 📁 File Structure
